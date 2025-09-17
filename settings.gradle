@@ -1,0 +1,3 @@
+rootProject.name = 'accounting-lib'
+
+include('accounting-api', 'accounting-core', 'accounting-adapter-inmemory', 'accounting-tests')
